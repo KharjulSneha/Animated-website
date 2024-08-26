@@ -1,4 +1,4 @@
 ## animated website.
 Animations using css
 
-##  https://kharjulsneha.github.io/Animated-website/
+ https://kharjulsneha.github.io/Animated-website/
